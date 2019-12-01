@@ -1,4 +1,4 @@
-package com.keiissland.leetcode.part004;
+package com.keiissland.leetcode.part0004;
 
 import java.util.Arrays;
 
